@@ -1,0 +1,10 @@
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\bin\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.deps.json
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\bin\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.dll
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\bin\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.pdb
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.csproj.AssemblyReference.cache
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.csproj.CoreCompileInputs.cache
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.dll
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\refint\Kadaster.TopSpecials.Basis.Addin.dll
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\Kadaster.TopSpecials.Basis.Addin.pdb
+D:\GITEA\brt-pro-addin-topspecials-basis\TopSpecialsBasis\obj\Debug\net6.0-windows\ref\Kadaster.TopSpecials.Basis.Addin.dll

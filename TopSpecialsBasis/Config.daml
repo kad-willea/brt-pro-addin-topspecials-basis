@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArcGIS defaultAssembly="Kadaster.TopSpecials.Basis.Addin.dll" defaultNamespace="Kadaster.TopSpecials.Basis.Addin" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{000c48d7-3920-4615-b830-296d86e14616}" version="1.0" desktopVersion="3.1.41833">
+    <Name>Kadaster.TopSpecials.Basis.Addin</Name>
+    <Description>Kadaster.TopSpecials.Basis.Addin</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>BRT TopSpecials</Author>
+    <Company>Kadaster Nederland</Company>
+    <Date>30/6/2023</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="Kadaster_TopSpecials_Basis_Addin_TopSpecialsBasisModule" className="TopSpecialsBasisModule" autoLoad="false" caption="TopSpecialsBasisModule">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <tab id="Kadaster_TopSpecials_Basis_Addin_Tab" caption="Top Specials" keytip="TopSpecials">
+          <group refID="Kadaster_Brt_Basis_Addin_Group" />
+        </tab>
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="Kadaster_TopSpecials_Basis_Addin_Group" caption="Top Specials" appearsOnAddInTab="false" keytip="TopSpecials">
+          <!-- host controls within groups -->
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

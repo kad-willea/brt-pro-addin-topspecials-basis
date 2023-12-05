@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Kadaster.Brt.Basis.Addin": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\ArcGIS\\Pro\\bin\\ArcGISPro.exe",
+      "commandLineArgs": ""
+    }
+  }
+}
